@@ -1,19 +1,7 @@
 # jQuery Exercise 1
 
-## Retain Previous jQuery Folder
+Download [this link](https://github.com/barcaxi/ssp2022/archive/refs/heads/master.zip).  Copy the `jQuery` folder into your XAMPP ``htdocs`` folder.
 
-1.	Please RENAME your existing (if any) ``jQuery`` folder as ``jQueryOLD`` before cloning below.
-
-
-## Clone the Remote Repository
-
-This will copy some jQuery program files to you ``htdocs`` folder.
-
-1.	Download the [jQuery repository](https://github.com/noucampdotorgCSAD2021/jQuery)
-
-1.	Copy the `jQuery-main` folder into your `htdocs` folder.  
-
-1.	Rename the `jQuery-main` folder as `jQuery`
 
 Check your ``htdocs`` folder.  You should have a new folder called ``jQuery`` with some files in it.
 
